@@ -12,7 +12,7 @@ import time
 class TranslationApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("OpenAI Compatible Translating Tools - Waltz1809")
+        self.root.title("OpenAI Compatible API Translating Tools - Waltz1809")
         self.root.geometry("900x700")
         
         # Initialize variables
