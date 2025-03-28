@@ -1,6 +1,10 @@
 # Công Cụ Dịch Thuật bằng OpenAI API
 
-![Demo Giao Diện](demo_screenshot.png) *(Hình ảnh minh họa)*
+![Demo Giao Diện](demo_images\tab1.png)
+
+![Demo Giao Diện](demo_images\tab2.png)
+
+![Demo Giao Diện](demo_images\tab3.png)
 
 ## Giới Thiệu
 
