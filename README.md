@@ -87,3 +87,8 @@ Xuất ra file TXT khi hoàn tất
 - 第X章
 - X
 Với X là số chương
+
+## Liên hệ nếu cần:
+Vui lòng nhắn thẳn. Đừng kết bạn xong rồi lặng im
+
+Discord: waltz1809. 
