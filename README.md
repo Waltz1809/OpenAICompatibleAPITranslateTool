@@ -88,7 +88,7 @@ Xuất ra file TXT khi hoàn tất
 - X
 Với X là số chương
 
-## Liên hệ nếu cần:
+## Thông Tin Liên Hệ:
 Vui lòng nhắn thẳng. Đừng kết bạn xong rồi lặng im
 
 Discord: waltz1809. 
