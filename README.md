@@ -89,6 +89,6 @@ Xuất ra file TXT khi hoàn tất
 Với X là số chương
 
 ## Liên hệ nếu cần:
-Vui lòng nhắn thẳn. Đừng kết bạn xong rồi lặng im
+Vui lòng nhắn thẳng. Đừng kết bạn xong rồi lặng im
 
 Discord: waltz1809. 
