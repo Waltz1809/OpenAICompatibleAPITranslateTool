@@ -13,6 +13,7 @@
 - Hỗ trợ đa luồng khi gọi API dịch
 - Gộp nội dung đã dịch với tuỳ chọn định dạng
 - Theo dõi tiến trình qua giao diện trực quan
+- Tương thích nhiều API miễn là dùng OpenAI SDK và Endpoint URL
 
 ## Yêu Cầu Hệ Thống
 
